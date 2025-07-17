@@ -19,8 +19,7 @@ A simple GUI application for encrypting and decrypting files using Fernet symmet
 
 ## Installation
 
-1. Clone this repository or download the source code
-2. Install the required packages:
+ Install the required packages:
    ```bash
    pip install cryptography
    # File-Encryption-and-Decryption
